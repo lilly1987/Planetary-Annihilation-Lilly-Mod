@@ -68,6 +68,49 @@ define([
                     });
                     var minionSpecs = _.filter(_.pluck(context.minions, 'commander'));
                     inventory.addUnits(minionSpecs);
+					//
+					/*
+                    var mods = [];
+                    var modUnit = function(unit)
+                    {
+                        mods.push(
+                        {
+                            file: unit,
+                            path: 'navigation.move_speed',
+                            op: 'multiply',
+                            value: 10.0
+                        });
+                        mods.push(
+                        {
+                            file: unit,
+                            path: 'navigation.brake',
+                            op: 'multiply',
+                            value: 10.0
+                        });
+                        mods.push(
+                        {
+                            file: unit,
+                            path: 'navigation.acceleration',
+                            op: 'multiply',
+                            value: 10.0
+                        });
+                        mods.push(
+                        {
+                            file: unit,
+                            path: 'navigation.turn_speed',
+                            op: 'multiply',
+                            value: 10.0
+                        });
+                        mods.push(
+                        {
+                            file: unit,
+                            path: 'max_health',
+                            op: 'multiply',
+                            value: 10.0
+                        });
+                    };
+                    _.forEach(units, modUnit);*/
+					//
                 }
                 ++buffCount;
                 inventory.setTag('', 'buffCount', buffCount);

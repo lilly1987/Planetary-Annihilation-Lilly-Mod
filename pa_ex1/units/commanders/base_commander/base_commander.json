@@ -4,7 +4,7 @@
   "si_name": "commander",
   "strategic_icon_priority": 0,
   "max_health": 125000,
-  "build_metal_cost": 2500000,
+  "build_metal_cost": 250000,
   "buildable_types": "CmdBuild",
   "show_in_orbital_layer": true,
   "armor_type": "AT_Commander",
