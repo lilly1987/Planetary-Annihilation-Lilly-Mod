@@ -168,7 +168,7 @@ define([
             var result = $.Deferred();
 
             var run = function() {
-                api.debug.log("DEALER");
+                //api.debug.log("DEALER");
                 var remainingAICards = aiCards.slice(0);
                 var remainingAIDeck = aiDeck.slice(0);
 

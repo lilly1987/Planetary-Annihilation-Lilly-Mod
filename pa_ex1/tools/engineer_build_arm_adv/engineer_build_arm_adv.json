@@ -5,10 +5,10 @@
     "energy": 15000,
     "metal": 150
   },
-  "yaw_rate": 500,
-  "pitch_rate": 500,
-  "pitch_range": 1800,
-  "yaw_range": 1800,
+  "yaw_rate": 50,
+  "pitch_rate": 50,
+  "pitch_range": 180,
+  "yaw_range": 180,
   "assist_layers": [
     "WL_AnyHorizontalGroundOrWaterSurface",
     "WL_Air",
