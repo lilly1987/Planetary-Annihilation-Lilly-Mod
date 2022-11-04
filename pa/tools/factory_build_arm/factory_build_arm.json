@@ -1,0 +1,11 @@
+{
+  "tool_type": "TOOL_BuildArm",
+  "construction_demand": {
+    "energy": 10000,
+    "metal": 100
+  },
+  "yaw_rate": 500,
+  "pitch_rate": 500,
+  "yaw_range": 1800,
+  "pitch_range": 450
+}
