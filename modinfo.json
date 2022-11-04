@@ -1,0 +1,21 @@
+{
+  "context": "client",
+  "identifier": "com.pa.lilly.mod",
+  "display_name": "lilly mod",
+  "description": "lilly mod",
+  "author": "lilly.",
+  "version": "1.0.0",
+  "build": "116400",
+  "date": "2022-11-01",
+  "signature": " ",
+  "forum": "https://github.com/lilly1987/Planetary-Annihilation-Lilly-Mod/",
+  "priority": 100,
+  "category": [
+  "gw",
+  "cheat", 
+	"units",
+    "titans"
+  ],
+  "titansOnly": true,
+  "github": "https://github.com/lilly1987/Planetary-Annihilation-Lilly-Mod/"
+}
