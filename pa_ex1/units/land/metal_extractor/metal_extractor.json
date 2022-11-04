@@ -4,7 +4,7 @@
   "display_name": "!LOC:Metal Extractor",
   "description": "!LOC:Basic Economy - Produces metal, can only be placed on metal deposits.",
   "max_health": 10000,
-  "build_metal_cost": 1700,
+  "build_metal_cost": 170,
   "atrophy_rate": 2.5,
   "atrophy_cool_down": 15,
   "spawn_layers": "WL_AnyHorizontalGroundOrWaterSurface",

@@ -4,7 +4,7 @@
   "display_name": "!LOC:Energy Plant",
   "description": "!LOC:Basic Economy - Produces energy.",
   "max_health": 10000,
-  "build_metal_cost": 4000,
+  "build_metal_cost": 400,
   "atrophy_rate": 7.5,
   "atrophy_cool_down": 15,
   "spawn_layers": "WL_AnyHorizontalGroundOrWaterSurface",

@@ -5,7 +5,7 @@
   "description": "!LOC:Advanced Economy - Produces metal, can only be placed on metal deposits.",
   "strategic_icon_priority": 5,
   "max_health": 30000,
-  "build_metal_cost": 18000,
+  "build_metal_cost": 1800,
   "atrophy_rate": 33.3333,
   "atrophy_cool_down": 15,
   "spawn_layers": "WL_AnyHorizontalGroundOrWaterSurface",
