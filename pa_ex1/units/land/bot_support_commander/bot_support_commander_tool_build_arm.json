@@ -13,4 +13,3 @@
     "reclaim_layers": ["WL_AnyHorizontalGroundOrWaterSurface", "WL_Air"],
     "reclaim_types": ["Unit", "Wreckage", "Feature"]
 }
-

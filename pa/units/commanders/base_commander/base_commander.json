@@ -3,8 +3,8 @@
   "description": "Base Commander Description - If you're seeing this, something is wrong in your commander.",
   "si_name": "commander",
   "strategic_icon_priority": 0,
-  "max_health": 125000,
-  "build_metal_cost": 2500000,
+  "max_health": 1250000,
+  "build_metal_cost": 250000,
   "buildable_types": "CmdBuild",
   "show_in_orbital_layer": true,
   "armor_type": "AT_Commander",
@@ -23,12 +23,12 @@
     }
   },
   "production": {
-    "energy": 200000,
-    "metal": 2000
+    "energy": 20000,
+    "metal": 200
   },
   "storage": {
-    "energy": 4500000,
-    "metal": 150000
+    "energy": 450000,
+    "metal": 15000
   },
   "unit_types": [
     "UNITTYPE_Commander",
