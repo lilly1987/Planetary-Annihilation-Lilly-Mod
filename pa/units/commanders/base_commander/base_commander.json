@@ -23,12 +23,12 @@
     }
   },
   "production": {
-    "energy": 200000,
-    "metal": 2000
+    "energy": 2000000,
+    "metal": 20000
   },
   "storage": {
-    "energy": 4500000,
-    "metal": 150000
+    "energy": 45000000,
+    "metal": 1500000
   },
   "unit_types": [
     "UNITTYPE_Commander",
@@ -57,7 +57,7 @@
     "type": "amphibious",
     "acceleration": 600,
     "brake": -1,
-    "move_speed": 12,
+    "move_speed": 6,
     "turn_speed": 900,
     "turn_in_place": false,
     "park_stamp": {
